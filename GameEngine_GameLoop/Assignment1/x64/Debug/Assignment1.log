@@ -1,0 +1,25 @@
+﻿  Vector3.cpp
+  AnimationManager.cpp
+  TextureManager.cpp
+  SoundManager.cpp
+  Singleton.cpp
+  RenderManager.cpp
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.h(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Monobehaviour.cpp
+  MemoryManager.cpp
+  Main.cpp
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.h(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\main.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\main.cpp(70): warning C4101: 'c': unreferenced local variable
+  PhysicsManager.cpp
+  IMemoryManager.cpp
+  GameWorld.cpp
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.h(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.cpp(189): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.cpp(212): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.cpp(275): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameManager.cpp
+c:\users\dryan\documents\old classes\gdd 4000\homework\assignment3_gameloop\assignment1\gameworld.h(39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  FileSystemManager.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\Dryan\Documents\old classes\GDD 4000\HomeWork\Assignment3_GameLoop\x64\Debug\Assignment1.exe
